@@ -1,0 +1,1 @@
+function img(){document.getElementById('logo4').src="./image/ロゴ.png";}
